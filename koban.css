@@ -1,0 +1,15 @@
+body{
+	
+	font-family: Cabin, sans-serif;
+	background-image: linear-gradient(to right, rgb(113, 168, 128), rgb(121, 144, 173));
+	
+}
+html{
+	background-color: white;
+	background-image: linear-gradient(to right, rgb(113, 168, 128), rgb(121, 144, 173));
+}
+
+a:hover{
+	background-color: orange;
+}
+
